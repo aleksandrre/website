@@ -2,17 +2,17 @@
 
 ## Links
 
-- Live Site URL: [Live site](https://validation-wine.vercel.app/)
-- Solution URL: [Solution URL](https://github.com/aleksandrre/Validation)
+- Live Site URL: [Live site](https://website-aleksandrre.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/aleksandrre/website)
 
 ## Screenshot
 
-![App Screenshot](https://user-images.githubusercontent.com/108459639/223790649-f7c8c433-fc0d-4857-b048-2a281ffea775.png)
+![App Screenshot](https://user-images.githubusercontent.com/108459639/223792170-de332e81-b40f-4eac-ab4f-9ef81e692318.png)
 
 ## Built with
 
 - React
-- React Hook Form
+- React Router
 
 ## Authors
 
